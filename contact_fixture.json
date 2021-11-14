@@ -1,0 +1,26 @@
+[
+    {
+        "model": "contact.contact",
+        "fields": {
+            "id": 1,
+            "first_name": "Leslie",
+            "last_name": "Knope",
+            "mobile_number": "+1412345678",
+            "home_number": "1",
+            "work_number": "1",
+            "email_address": "yolanda@gmail.com"
+        }
+    },
+    {
+        "model": "contact.contact",
+        "fields": {
+            "id": 2,
+            "first_name": "Tom",
+            "last_name": "Haverford",
+            "mobile_number": "+3412345678",
+            "home_number": "1",
+            "work_number": "1",
+            "email_address": "yolanda@gmail.com"
+        }
+    }
+]
