@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.show-contacts-nav{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #282c34;
+}
+
+.add-contact-nav{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #282c34;
+}
+
+.contacts-card-info{
+  display: inline-block;
+  margin: 5px;
+  padding: 2px;
+}
+
+.form-group{
+  padding: 10px;
+}
